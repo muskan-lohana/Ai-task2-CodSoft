@@ -9,7 +9,7 @@ A simple command-line Tic-Tac-Toe game in Python where you can play against an A
 - [How to Play](#how-to-play)
 - [Game Rules](#game-rules)
 - [Technical Details](#technical-details)
-- 
+  
 ## Introduction
 
 This is a Python implementation of the classic Tic-Tac-Toe game. You can play against the AI opponent, which makes random moves. The game provides an interactive and entertaining way to enjoy a timeless game.
