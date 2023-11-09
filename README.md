@@ -32,4 +32,3 @@ This is a Python implementation of the classic Tic-Tac-Toe game. You can play ag
 ## Technical Details
 
 The game is implemented in Python and uses a simple random move strategy for the AI. The board is displayed in the console, and player input is taken via the command line.
-
